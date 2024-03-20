@@ -1,0 +1,102 @@
+html{
+    height: 100%;
+    background-image: url(imagenes/desktop-wallpaper-riddler-by-franky4fingersx2-d7qnvz8-riddler-background.jpg);
+    background-size: 100%;
+}
+.encriptador{
+    position: relative;
+    }
+h1{
+position: absolute;
+
+}
+h2{
+    color: white;
+    margin: 15px;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+main{
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 400px;
+    text-align: center;
+
+}
+.texto1{
+    font-size:20px ;
+    background-color: transparent;
+    margin-top: 90px ;
+    
+    border-radius: 20px;
+    text-align: center;
+    text-transform: lowercase;
+    color:rgb(255, 255, 255);
+    
+}
+::placeholder{color: white;}
+
+.mensaje{
+    font-size: 20px;
+    background-color: transparent;
+    background-image: url(imagenes/desktop-wallpaper-would-jim-play-the-riddler-again-batman-forever-riddler.jpg);
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    margin-left: 98px;
+    margin-top: 90px;
+    padding-left: 20px;
+    color: white;
+}
+.botones{
+    display: flex;
+    margin-top: 18px;
+}
+.boton1{
+    background: rgb(13, 81, 33);
+    color: rgb(147, 236, 192);
+    margin: 0 15px;
+    font-size: 25px;
+    border-radius: 15px;
+}
+.boton2{
+    background: rgb(151, 220, 183);
+    color: rgb(2, 26, 14);
+    margin: 0 15px;
+    font-size: 25px;
+    border-radius: 15px;
+}
+.copiar{
+    background: rgb(151, 220, 183);
+    color: rgb(2, 26, 14);
+    margin: 35px 15px;
+    font-size: 25px;
+    border-radius: 15px;
+
+}
+.informacion{
+    color: rgb(255, 255, 255);
+    background-color: rgb(4, 83, 21);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+footer{
+    margin: 100px auto;
+    background-color: rgb(0, 0, 0);
+}
+p{
+    text-align: center;
+    color: white;
+}
+
+h3{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+}
+.nombre{
+    font-size: 24px;
+}
